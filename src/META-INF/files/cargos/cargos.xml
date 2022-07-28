@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<cargos>
+	<cargo idCargo="1">
+		<codigoCliente>1</codigoCliente>
+		<tipoTarjeta>CR</tipoTarjeta>
+		<codigoTarjeta>1111111111</codigoTarjeta>
+		<valorCargo>10</valorCargo>
+		<fechaCargo>01/07/2022</fechaCargo>
+	</cargo >
+	<cargo idCargo="2">
+		<codigoCliente>5</codigoCliente>
+		<tipoTarjeta>DB</tipoTarjeta>
+		<codigoTarjeta>1010101010</codigoTarjeta>
+		<valorCargo>20</valorCargo>
+		<fechaCargo>05/07/2022</fechaCargo>
+	</cargo>
+	<cargo idCargo="3">
+		<codigoCliente>22</codigoCliente>
+		<tipoTarjeta>DB</tipoTarjeta>
+		<codigoTarjeta>5555555555</codigoTarjeta>
+		<valorCargo>30</valorCargo>
+		<fechaCargo>07/07/2022</fechaCargo>
+	</cargo>
+	<cargo idCargo="4">
+		<codigoCliente>10</codigoCliente>
+		<tipoTarjeta>CR</tipoTarjeta>
+		<codigoTarjeta>1011011012</codigoTarjeta>
+		<valorCargo>40</valorCargo>
+		<fechaCargo>10/07/2022</fechaCargo>
+	</cargo>
+	<cargo idCargo="5">
+		<codigoCliente>8</codigoCliente>
+		<tipoTarjeta>NB</tipoTarjeta>
+		<codigoTarjeta>2020202020</codigoTarjeta>
+		<valorCargo>50</valorCargo>
+		<fechaCargo>15/07/2022</fechaCargo>
+	</cargo>
+	<cargo idCargo="6">
+		<codigoCliente>20</codigoCliente>
+		<tipoTarjeta>CR</tipoTarjeta>
+		<codigoTarjeta>3333333333</codigoTarjeta>
+		<valorCargo>60</valorCargo>
+		<fechaCargo>19/07/2022</fechaCargo>
+	</cargo>
+	<cargo idCargo="7">
+		<codigoCliente>30</codigoCliente>
+		<tipoTarjeta>DB</tipoTarjeta>
+		<codigoTarjeta>1122334455</codigoTarjeta>
+		<valorCargo>70</valorCargo>
+		<fechaCargo>21/07/2022</fechaCargo>
+	</cargo>
+</cargos>
